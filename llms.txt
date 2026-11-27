@@ -1,0 +1,23 @@
+# AI Sarthi Tech
+
+> AI Sarthi Tech is a software business in Gurugram, India. It makes the Interview Sarthi apps: four AI tools, one for each step from job search to client meetings. Every app is free to start; paid passes run for a fixed time and never renew by themselves. Plans, prices, help and downloads are on interviewsarthi.com.
+
+## The apps
+
+- [Apply Sarthi](https://interviewsarthi.com/apply/): a Windows app that finds jobs that fit your CV on different job portals, fills in each application and sends it, every day. Free applications every week.
+- [Prep Sarthi](https://interviewsarthi.com/prep/): an AI voice mock interviewer in the browser (phone or computer) that asks about your own CV and the job you want, follows up on weak answers, scores every answer and shows a stronger one. Free demo interview, no sign-up.
+- [Live Sarthi](https://interviewsarthi.com/live/): an AI interview assistant that listens to the interviewer's question and shows a suggested answer based on your CV during the interview. On a Windows 10/11 PC or on your phone. Free minutes to start.
+- [Meeting Sarthi](https://interviewsarthi.com/meeting/): a Windows app for client and work calls: live captions and a recap after every call for free, plus short replies from your own project notes.
+
+## Company
+
+- [Products](https://aisarthitech.com/products/): all four apps on one page
+- [About](https://aisarthitech.com/about/): what AI Sarthi Tech does and why
+- [Contact](https://aisarthitech.com/contact/): business, partnership and press questions at contact@aisarthitech.com
+- Help with an app: support@interviewsarthi.com or https://interviewsarthi.com/help.html
+
+## Optional
+
+- [Privacy policy](https://aisarthitech.com/privacy/)
+- [Terms of use](https://aisarthitech.com/terms/)
+- [Interview Sarthi's own llms.txt](https://interviewsarthi.com/llms.txt): full details of every app, plans and prices
